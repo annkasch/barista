@@ -11,7 +11,7 @@ This project introduces a novel approach to spectral decomposition and anomaly d
 
 ### Key Concepts
 
-Traditional background modeling approaches—used in LEGEND/Majorana/GERDA, CUORE/CUPID, EXO-200, KamLAND-Zen, and dark-matter searches like XENON-1T—share a common approach, a binned Likelihood Fit to Energy Spectrum:
+Traditional background modeling approaches—used in 0νββ experiments share a common approach, a binned Likelihood Fit to Energy Spectrum:
 - The observed energy spectrum is modeled as a Poisson-distributed sum of individual contributions.
 - Contributions are derived from Monte Carlo simulated spectra, integrated over specific detector response functions.
 
