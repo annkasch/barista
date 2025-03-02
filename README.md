@@ -22,8 +22,7 @@ Traditional background modeling approaches—used in 0νββ experiments share a
 
 ## 💡 Proposed Solution
 
-![image](https://github.com/user-attachments/assets/a71f20da-346d-4385-88f6-cc20fe04ce86)
-
+![image](https://github.com/user-attachments/assets/c970322d-16cc-4b5a-8ece-f503e51f308b)
 
 - Forward modeling
 - Inverse mapping for background inference
